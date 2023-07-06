@@ -1,0 +1,1 @@
+This directory contains files on Shell Permissions
