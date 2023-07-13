@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | cat -n | cat -T | cut -b 9-
+paste -d" " - - | cut -d " " -f 1
